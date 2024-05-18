@@ -6,4 +6,4 @@
 
 （点击下载绿色免安装版）
 
-- <a href="public/CodeCat.rar" target="_blank">CodeCat.rar</a>
+- <a href="public/CodeCat.rar" download target="_blank">CodeCat.rar</a>
