@@ -68,7 +68,7 @@ void MainWindow::clearInput()
 
 void MainWindow::saveInput()
 {
-    QString fileName = QFileDialog::getSaveFileName(this, "保存文件", "", "文本文件 (*.txt);;所有文件 (*)");
+    QString fileName = QFileDialog::getSaveFileName(this, "保存文件", "/", "文本文件 (*.txt);;所有文件 (*)");
     if (fileName.isEmpty())
     {
         return;
