@@ -20,7 +20,7 @@ MainWindow::MainWindow(QWidget *parent)
 
     //窗口设置
     setWindowTitle("编程猫");
-    setWindowIcon(QIcon(":/Image/favicon.ico"));
+    setWindowIcon(QIcon(":/Image/logo.ico"));
     resize(300, 200);
     setMinimumSize(300, 200);
 
